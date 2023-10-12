@@ -1,1 +1,2 @@
-# C84-HWK
+# spectagram-stage-3
+project solution for c83
